@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Aperture_Science_Market/static/css/main.4a7346b7.chunk.css",
-    "main.js": "/Aperture_Science_Market/static/js/main.5e43006e.chunk.js",
-    "main.js.map": "/Aperture_Science_Market/static/js/main.5e43006e.chunk.js.map",
+    "main.js": "/Aperture_Science_Market/static/js/main.d9712248.chunk.js",
+    "main.js.map": "/Aperture_Science_Market/static/js/main.d9712248.chunk.js.map",
     "runtime-main.js": "/Aperture_Science_Market/static/js/runtime-main.eb614c8a.js",
     "runtime-main.js.map": "/Aperture_Science_Market/static/js/runtime-main.eb614c8a.js.map",
     "static/js/2.5df78ec4.chunk.js": "/Aperture_Science_Market/static/js/2.5df78ec4.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.eb614c8a.js",
     "static/js/2.5df78ec4.chunk.js",
     "static/css/main.4a7346b7.chunk.css",
-    "static/js/main.5e43006e.chunk.js"
+    "static/js/main.d9712248.chunk.js"
   ]
 }
